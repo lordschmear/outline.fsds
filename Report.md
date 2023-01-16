@@ -68,7 +68,7 @@ Regarding levels of ‘deprivation’, MHCLG, Hackney has a IMD rank of X out of
 ### Kensington & Chelsea 
 The Royal Borough of Kensington & Chelsea is located west of both Camden and Hackney. According to census data from 2020, the borough has a total population of 153,000 individuals, making it markedly smaller than the other two areas being analyzed (Office of National Statistics, 2020). Kensington & Chelsea have a much higher proportion of White individuals living in the borough, which points to the more privileged status and larger incomes being obtained by local households.
 
-Demographic Statistics by Ethnic Group (Census Data, 2020): <br /> 
+Demographic Statistics by Ethnic Group (Census Data, 2020): <br/> 
 * White: 109,000 (~71%)
 * Asian: 15,000 (~10%)
 * Black: 14,000 (~9%)
