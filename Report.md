@@ -60,7 +60,8 @@ Demographic Statistics by Ethnic Group (Office of National Statistics, 2020): <b
 * Black: 29,000 (~11%)
 * Mixed/Other: 45,000 (~17%)
 
-![Figure A. Maps of Camden that display the range of 'barriers to housing and services' scores and the prices of Airbnbs in each ward.](camden.png)
+![](camden.png)
+#### Figure A. Maps of Camden that display the range of 'barriers to housing and services' scores and the prices of Airbnbs in each ward.
 
 Regarding levels of ‘deprivation’, as judged by the Ministry of Housing, Communities, and Local Government (MHCLG), Camden's 133 Lower Level Super Output Areas (LSOAs) had an average 'Barriers to Housing and Services' rank of around 15,142.85 in 2019 (MHCLG, 2019). This is higher than the average of all London boroughs' combined rank of 7,907.65. The lower the rank, the more perceived barriers there are to these services, which means that Camden neighborhoods are less deprived on average.
 
@@ -76,7 +77,8 @@ Demographic Statistics by Ethnic Group (Census Data, 2020): <br />
 
 Hackney's 144 LSOAs have a average 'Barriers to Housing and Services' rank of 1,647.49, which is far below the mean rank of all London boroughs (MHCLG, 2019). This means that Hackney is extremely deprived compared to most of London when it comes to residents being able to access housing and services.
 
-![Figure B. Maps of Hackney that display the range of 'barriers to housing and services' scores and the prices of Airbnbs in each ward.](hackney.png)
+![](hackney.png)
+#### Figure B. Maps of Hackney that display the range of 'barriers to housing and services' scores and the prices of Airbnbs in each ward.
 
 Hackney also serves as the primary example of how housing deprivation correlates with Airbnb concentration in this briefing. Of the almost 70,000 Airbnbs listed in London, those using gentrification buzzwords are almost twice as likely to be located in Hackney than in any other borough. Camden and Kensington & Chelsea conversely have only a quarter as many listings using these words. Although an imperfect metric, the chasm in results points to a positive correlation between Airbnb listings and housing deprivation when gentrification frames one’s visit. Accordingly, when addressing Airbnb in housing-deprived neighbourhoods like Hackney, this social context must be taken into account.
 
@@ -90,7 +92,8 @@ Demographic Statistics by Ethnic Group (Census Data, 2020): <br/>
 * Black: 14,000 (~9%)
 * Mixed/Other: 15,000 (~10%)
 
-![Figure C. Maps of Kensington & Chelsea that display the range of 'barriers to housing and services' scores and the prices of Airbnbs in each ward.](kc.png)
+![](kc.png)
+#### Figure C. Maps of Kensington & Chelsea that display the range of 'barriers to housing and services' scores and the prices of Airbnbs in each ward.
 
 The 103 LSOAs that comprise Kensington & Chelsea have a average 'Barriers to Housing and Services' rank of 4,270.15, which is below the mean rank of all London boroughs (MHCLG, 2019). This means that Kensington & Chelsea are more deprived compared to most of London when it comes to accessing housing and services, which is surprising given the level of affluence in some parts of the borough. There is evidence to prove this as the average Index of Multiple Deprivation (IMD) rank for the borough is 15,419.34, compared to the average rank for all of London being 15,419.34 (MHCLG, 2019). This may point to Kensington & Chelsea having a higher level of wealth disparity compared to the other two boroughs.
 
