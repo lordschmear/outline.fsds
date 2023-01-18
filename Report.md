@@ -32,7 +32,7 @@ Date: 16 January 2023
 
 Student Numbers: 22227558
 
-# Gentrification and the Detrimental Impacts of Airbnb in London: a Policy Briefing
+# Gentrification and the Detrimental Impacts of Airbnb in London: <br/> a Policy Briefing
 
 ## Intro 
 
