@@ -32,6 +32,8 @@ Date: 16 January 2023
 
 Student Numbers: 22227558
 
+# Gentrification and the Detrimental Impacts of Airbnb in London: a Policy Briefing
+
 ## Intro 
 
 In recent decades, the term ‘gentrification’ has circulated in the mainstream. The term encompasses a variety of phenomena from shifting neighbourhood aesthetics, to the rhetoric surrounding ‘revitalisation’ of dilapidated city-spaces and displacement of marginalised communities (Pell, 2014). One of the catalysts for these phenomena is short-term rental platforms. Airbnb in particular has significantly reshaped housing that its impact has colloquially been termed the ‘Airbnb effect’ in economics. In short, the term describes Airbnb’s impact on cities around the world: reduced housing supply and higher rent prices (Chaudhary, 2021). So, despite Airbnb’s lucrativeness , its systematic widening of rent gaps accelerates gentrification – or ‘Airbnbification’ – by pricing out long-time residents and small businesses (Wachsmuth and Weisler, 2018; Peters, 2016; Rozena and Lees, 2021). 
